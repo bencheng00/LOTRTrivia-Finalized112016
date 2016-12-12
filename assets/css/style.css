@@ -1,0 +1,57 @@
+.container {
+	
+	background-repeat: no-repeat;
+}
+
+#takingcredit {
+	position:absolute;
+	bottom:10px;
+	right:40px;
+}
+
+.btn {
+	color:white;
+	border-color: white;
+	font-family: "Georgia", "Times New Roman", Times, serif; 
+}
+
+p {
+	font-family: "Georgia", "Times New Roman", Times, serif; 
+}
+
+.col-lg-6 {
+	background-color: black;
+	border-style: ridge;
+	border-color: white;
+	border-width: 10px;
+	margin-left:20%;
+	font-family: "Georgia", "Times New Roman", Times, serif; 
+	width:60%;
+	background-size: 100% 100%;
+	word-wrap: initial;
+	padding:3%;
+	opacity:0.7;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+#timeleft {
+	position:absolute;
+	top:50px;
+	right:105px;
+	font-family: "Georgia", "Times New Roman", Times, serif; 
+	font-size: 30px;
+	text-align: center;
+}
+
+#timeleftsec {
+	position:absolute;
+	top:60px;
+	right:105px;
+	font-family: "Georgia", "Times New Roman", Times, serif; 
+	font-size: 100px;
+	text-align: center;
+}
